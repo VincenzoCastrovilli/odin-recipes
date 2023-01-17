@@ -1,2 +1,3 @@
 # odin-recipes
-//TODO: Scrivere una breve introduzione descrivendo cosa è questo progetto e che skill ho dimostrato una volta completato
+Simple website made in HTML that emulates an online cookbook using basic 
+HTML concepts (text, images, lists, links)
