@@ -1,0 +1,14 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(187, 209, 124);
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h2, 
+h3 {
+    background-color: green;
+}
